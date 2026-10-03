@@ -1,0 +1,1 @@
+from .Permainan import gamepy
